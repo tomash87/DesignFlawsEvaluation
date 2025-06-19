@@ -103,5 +103,5 @@ This directory consists of a single spreadsheet `Conflicts of interest.xlsx` con
 in potential conflicts of interest in the 2022 evaluation, scraped from the websites of 
 the [Polish Ministry of Science and Higher Education](https://www.gov.pl/web/science) (formerly the Ministry of Education and Science), 
 the [Science Evaluation Committee](https://www.gov.pl/web/nauka/sklad-komisji-ewaluacji-nauki-w-kadencji-2019-2022), 
-and the [National Information Processing Institution (OPI PIB)](https://opi.org.pl/en/) on 2025-06-23.
+and the [National Information Processing Institution (OPI PIB)](https://opi.org.pl/en/) on 2022-06-23.
 
