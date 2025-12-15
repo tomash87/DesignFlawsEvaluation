@@ -1,7 +1,8 @@
 # Design Flaws in the Polish Science Quality Evaluation System: A Technical Analysis of Latent Properties
 
 This repository consists of the supplementary material for the publication
-Pawlak, Tomasz P., Design Flaws in the Polish Science Quality Evaluation System: A Technical Analysis of Latent Properties. Available at SSRN: https://ssrn.com/abstract=5312756
+Pawlak, Tomasz P., Design Flaws in the Polish Science Quality Evaluation System: A Technical Analysis of Latent Properties. 
+Available at SSRN: https://doi.org/10.2139/ssrn.5312756
 
 It consists of four directories corresponding to four analyses in that publication:
 
