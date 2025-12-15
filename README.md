@@ -19,7 +19,7 @@ Below, we describe the details of this data.
 
 This directory consists of the estimate of the results of the 2022-2025 evaluation of quality of research of the Polish
 science and higher education institutions based on the data in the [RADon](https://radon.nauka.gov.pl) system available
-on 2025-06-02.
+on 2025-12-06.
 
 ### Disclaimer
 
