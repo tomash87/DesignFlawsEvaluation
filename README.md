@@ -1,7 +1,8 @@
 # Design Flaws in the Polish Science Quality Evaluation System: A Technical Analysis of Latent Properties
 
 This repository consists of the supplementary material for the publication
-Pawlak, Tomasz P., Design Flaws in the Polish Science Quality Evaluation System: A Technical Analysis of Latent Properties. Available at SSRN: https://ssrn.com/abstract=5312756
+Pawlak, Tomasz P., Design Flaws in the Polish Science Quality Evaluation System: A Technical Analysis of Latent Properties. 
+Available at SSRN: https://doi.org/10.2139/ssrn.5312756
 
 It consists of four directories corresponding to four analyses in that publication:
 
@@ -18,7 +19,7 @@ Below, we describe the details of this data.
 
 This directory consists of the estimate of the results of the 2022-2025 evaluation of quality of research of the Polish
 science and higher education institutions based on the data in the [RADon](https://radon.nauka.gov.pl) system available
-on 2025-06-02.
+on 2025-12-06.
 
 ### Disclaimer
 
@@ -48,7 +49,7 @@ For each institution three variants of the estimate are provided:
 ### Data description
 
 The directory consists of subdirectories corresponding to individual institutions satisfying the requirements of the
-Polish Act on Higher Education and Science, Article 265., to be put under evaluation of quality of science. The 
+Polish Act on Higher Education and Science, Article 265, to be put under evaluation of quality of science. The 
 subdirectories correspond to the official Polish names of the institutions. The science system institutions not 
 satisfying these requirements are collected in the `non evaluated` directory.
 The top-level directory contains also two special subdirectories `scientists` and `publications` containing raw input 
