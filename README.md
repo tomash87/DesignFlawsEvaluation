@@ -49,7 +49,7 @@ For each institution three variants of the estimate are provided:
 ### Data description
 
 The directory consists of subdirectories corresponding to individual institutions satisfying the requirements of the
-Polish Act on Higher Education and Science, Article 265., to be put under evaluation of quality of science. The 
+Polish Act on Higher Education and Science, Article 265, to be put under evaluation of quality of science. The 
 subdirectories correspond to the official Polish names of the institutions. The science system institutions not 
 satisfying these requirements are collected in the `non evaluated` directory.
 The top-level directory contains also two special subdirectories `scientists` and `publications` containing raw input 
