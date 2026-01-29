@@ -1,10 +1,29 @@
 # Design Flaws in the Polish Science Quality Evaluation System: A Technical Analysis of Latent Properties
 
-This repository consists of the supplementary material for the publication
-Pawlak, Tomasz P., Design Flaws in the Polish Science Quality Evaluation System: A Technical Analysis of Latent Properties. 
-Available at SSRN: https://doi.org/10.2139/ssrn.5312756
+This repository consists of the supplementary material for the publication<br>
+Pawlak, Tomasz P., Design flaws in the Polish science quality evaluation system: A technical analysis of latent properties,
+Journal of Informetrics, Volume 20, Issue 1, March 2026, art. no. 101773, 
+doi:[10.1016/j.joi.2026.101773](https://doi.org/10.1016/j.joi.2026.101773), 
+preprint doi:[10.2139/ssrn.5312756](https://doi.org/10.2139/ssrn.5312756).
 
-It consists of four directories corresponding to four analyses in that publication:
+Use this BibTeX entry for citations:
+```bibtex
+@article{PAWLAK2026101773,
+    title = {Design flaws in the {Polish} science quality evaluation system: {A} technical analysis of latent properties},
+    journal = {Journal of Informetrics},
+    volume = {20},
+    number = {1},
+    pages = {101773},
+    year = {2026},
+    issn = {1751-1577},
+    doi = {10.1016/j.joi.2026.101773},
+    url = {https://authors.elsevier.com/a/1mWj%7E6EAikD3F0},
+    author = {Tomasz P. Pawlak},
+    keywords = {Research assessment exercise, Research quality, Optimization, Bias, Manipulation, Conflict of interest}
+}
+```
+
+The repository consists of four directories corresponding to four analyses in that publication:
 
 * Optimization of scientific outcomes reporting
 * Bias of institution size
