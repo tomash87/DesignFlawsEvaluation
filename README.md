@@ -4,7 +4,7 @@ This repository consists of the supplementary material for the publication<br>
 Pawlak, Tomasz P., Design flaws in the Polish science quality evaluation system: A technical analysis of latent properties,
 Journal of Informetrics, Volume 20, Issue 1, March 2026, art. no. 101773, 
 doi:[10.1016/j.joi.2026.101773](https://doi.org/10.1016/j.joi.2026.101773), 
-preprint doi:[10.2139/ssrn.5312756](https://doi.org/10.2139/ssrn.5312756).
+preprint doi:[10.2139/ssrn.5312756](https://doi.org/10.2139/ssrn.5312756), dataset doi:[10.5281/zenodo.18825599](https://doi.org/10.5281/zenodo.18825599).
 
 Use this BibTeX entry for citations:
 ```bibtex
