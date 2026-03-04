@@ -124,3 +124,6 @@ the [Polish Ministry of Science and Higher Education](https://www.gov.pl/web/sci
 the [Science Evaluation Committee](https://www.gov.pl/web/nauka/sklad-komisji-ewaluacji-nauki-w-kadencji-2019-2022), 
 and the [National Information Processing Institution (OPI PIB)](https://opi.org.pl/en/) on 2022-06-23.
 
+# Funding
+
+This research was funded in whole or in part by the National Science Centre, Poland, grant number 2023/50/E/ST6/00237.
